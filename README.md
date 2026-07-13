@@ -2,6 +2,7 @@
 first
 ###以此来记录使用github的第一次
 |x|y|
+|---|---|
 |2|3|
 |3|4|
 
@@ -24,3 +25,5 @@ private void OnDataBroadcast(object sender, DataBroadcastEventArgs e)
     });
 }
 ```
+第一次写.md文档 - [x]
+继续练习后续文档 - []
